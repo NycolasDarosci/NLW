@@ -2,3 +2,17 @@
 <input id="name">
 <!-- input - entrada de dados   
 label pertence ao input -->
+
+fieldset : formulario
+
+OUTLINE: ao clicar, mostra uma borda, serve para 
+        acessibilidade
+
+BOTÃO DENTRO DE UM FORMULÁRIO (form)
+- o botão por padrão, quando estiver dentro de
+um formulario (form), ele irá querer enviar o
+formulario (form), e quando eu não quiser enviar,
+eu tenho que colocar um (type ="button")
+
+PLACEHOLDER 
+- uma mensagem que, ao digitar, ele some 
