@@ -1,0 +1,4 @@
+<label for="name"></label>
+<input id="name">
+<!-- input - entrada de dados   
+label pertence ao input -->
