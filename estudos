@@ -16,3 +16,21 @@ eu tenho que colocar um (type ="button")
 
 PLACEHOLDER 
 - uma mensagem que, ao digitar, ele some 
+
+
+map
+- é um objeto, de acordo com esse projeto
+
+map.on('click', function)
+- quando eu clicar no mapa, ele vai executar uma funcionalidade
+
+let marker;
+- let serve para que eu altere 'marker' a qualquer momento
+
+ marker && map.removeLayer(marker)
+ - na segunda vez que eu clicar, 
+   existe o marker, então (&&) irei remover a Layer marker do mapa
+
+document.querySelector('[name=lat]')
+-'querySelector('[name=lat]'), 
+ procurar pelo seletor ('[name=lat]') dentro do html.        
