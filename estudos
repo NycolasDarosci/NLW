@@ -47,3 +47,26 @@ document.querySelectorAll('.button-select button')
 -selecionar os ('.button-select button'),
 e para cada, terá uma função que será realizada no 'button',
 a classe de lista do botão, removerá o 'active'
+
+
+
+--------------------BACK-END-----------------------------
+
+Live Server é um servidor que manda a resposta através do HTML,CSS,JS
+o BACK-END serve como um servidor, iremos criá-lo
+
+
+RESPONSABILIDADES
+
+    -receber pedidos do cliente 
+    -Preparar os pedidos (!! REGRAS DE NÉGOCIOS !!) <-- importante
+    -Enviar respostas  
+    -Lidar com dados de aplicação
+
+TECNOLOGIAS
+
+    -Linguagem: Javascript
+    -Node.js - responsável por rodar js na máquina
+    -Git Bash - novo TERMINAL (como o cmd prompt, power shell, oferecidos pelo windows)
+                responsável por verificar se o node está instalado
+                e rodar arquivos js através dele
