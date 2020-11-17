@@ -34,3 +34,16 @@ let marker;
 document.querySelector('[name=lat]')
 -'querySelector('[name=lat]'), 
  procurar pelo seletor ('[name=lat]') dentro do html.        
+ 
+span.parentNode.children[0].value = ""
+- peguei o "new-upload" (parentNode) do span, que está na posicão 0,
+        e coloquei o valor igual a "vazio"
+
+document.querySelectorAll('.button-select button')
+    .forEach(function(button){
+        button.classList.remove('active')
+    })
+
+-selecionar os ('.button-select button'),
+e para cada, terá uma função que será realizada no 'button',
+a classe de lista do botão, removerá o 'active'
