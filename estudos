@@ -70,3 +70,18 @@ TECNOLOGIAS
     -Git Bash - novo TERMINAL (como o cmd prompt, power shell, oferecidos pelo windows)
                 responsável por verificar se o node está instalado
                 e rodar arquivos js através dele
+
+                BACKEND
+npm - node package manager
+
+npm init -y
+- iniciar um package.json
+
+../ - caminho relativo  } TEM HAVER COM AS PASTAS
+/ - absoluto            } TEM HAVER COM AS PASTAS          
+
+
+package.json
+- java script object notation
+
+127.0.0.1:5500 está funcionando e eu tenho uma rota '/'
