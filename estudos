@@ -85,3 +85,7 @@ package.json
 - java script object notation
 
 127.0.0.1:5500 está funcionando e eu tenho uma rota '/'
+
+{ name: name } ou
+{ name }
+-propriedade e valor
